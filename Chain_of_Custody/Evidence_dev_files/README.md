@@ -1,0 +1,2 @@
+# Evidence README
+die hier in diesem veröffentlichten Ordner, Entwicklercodes, Sprachen und Befehls- beziehungsweise Kommand-Zeilen sind Rohdaten. Diese wurden jeglich im Header, also der Benennung des Dokumentes beziehungsweise der Datei verändert. Es handelt sich um Rohmaterial Rohdaten, die für die IT-Forensik ausgelesen werden können. Da hier unteranderem ein Verbrechen gegen die Menschlichkeit dokumentiert wurde. 
