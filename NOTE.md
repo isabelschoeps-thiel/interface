@@ -86,9 +86,9 @@ Thuringia, Germany
 **Role:** Author, Rights Holder, Principal Custodian  
 
 **ORCID (Isabel Schöps Thiel):** 0009-0003-4235-2231  
-https://orcid.org/0009-0003-4235-2231/print  
+https://orcid.org/0009-0003-4235-2231
 
 **ORCID (IST Isabel Schoeps Thiel):** 0009-0006-8765-3267  
-https://orcid.org/0009-0006-8765-3267/print  
+https://orcid.org/0009-0006-8765-3267/
 
 This statement forms part of the DOI-archived Chain of Custody and is intended for legal, forensic, and human-rights review.
