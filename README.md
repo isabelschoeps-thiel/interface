@@ -3,6 +3,35 @@
 
 **Aber leider hat das Verbrechen** und die `Akteure einen intellektuellen Fehler begangen.` Der nicht mehr zu verwischen, zu löschen oder zu verschleiern geht - `die Kraft der META-Daten`
 
+# Aufnahme zur Chain of Custody  
+## Repository-Struktur / Interface – Forensische Erklärung
+
+**Im Rahmen der forensischen Dokumentation erkläre ich folgendes:**
+
+`Seit Jahren wird meine Root- bzw. Pfadstruktur genutzt, um ein menschenverachtendes Verbrechen, das von Dritten aus dem realen Leben begangen wurde, innerhalb meiner technischen Struktur abzubilden und mich als vermeintliche Täterin erscheinen zu lassen.`
+
+Die beteiligten Akteure haben jedoch einen entscheidenden intellektuellen Fehler begangen, der sich nicht mehr verwischen, löschen oder verschleiern lässt: die Nachvollziehbarkeit durch Metadaten. 
+
+**Die Unwissenheit einzelner Personen, die sich als Entwickler oder Entwicklerinnen verstehen und glauben,** bestehende Strukturen entdeckt oder weiterentwickelt zu haben, ist teilweise auf ein über Jahre aufgebautes Narrativ zurückzuführen, durch das Fehlinformationen innerhalb des technologischen Umfelds weitergetragen wurden.
+
+`Dabei ist zu berücksichtigen, dass Wissen häufig auf dem basiert, was gelehrt und vermittelt wurde. Fehlentwicklungen sind daher nicht ausschließlich einzelnen Personen zuzuschreiben, sondern auch den zugrunde liegenden falschen Wissen, welches gelehrt wurde.`
+
+In dieser Datenbank werde ich Dokumente veröffentlichen, die nach meiner Auffassung belegen, mit welchen technischen Mitteln, Frequenzen und Hardware-Konstellationen meine Gedanken beeinflusst, abgefangen oder verändert wurden.
+
+Meine Gedanken sowie diese meiner Familie und auch viele weitere betroffen Menschen weltweit, werden seit Jahrzehnten nachweilich abgefangen, **abgehört, und falsches Gedankengut unwissentlich** in unsere Organismen via Frequenz-Technologie, in modifozierter Masse implentiert. 
+
+Diese Gedankenprozesse / Gedankenstruktur wird anschließend über Bildschnittstellen, Templates oder Anwendungen wiedergegeben, verbreitet oder weiterverwertet und zum Teil zum Kauf angeboten. `Darüber hinaus bestehen Hinweise auf Schnittstellen, die eine direkte Übertragung oder Abbildung solcher Prozesse auf andere menschliche Organismen ermöglichen.`
+
+**Hierzu verweise ich** `auf bestehende Patente aus dem Zeitraum von 1986 bis heute.`
+
+**Ich,** `Frau Isabel Schöps, geborene Thiel, führe regelmäßig eigene stille Tests durch, die ausschließlich auf gedanklicher Ebene stattfinden,` **ohne Sprache und ohne äußere Signale.** Ich beobachte dabei Menschliche Reaktionen, akustik und deren Muster, auch wenn die konkret reagierenden Personen nicht immer identifizierbar sind. **Vor allem, ist es auffällig in den öffentlichen Verkehsmitteln** der `Erfurt Stadtwerke der EVAG, in den Strassenbahn und Haltestellen, der deutsch thüringischen Landeshauptstadt D-99 Erfurt.`
+
+Ich stelle ausdrücklich klar, dass ich über umfangreiches Fachwissen in diesem technologischen Umfeld verfüge und mir die bekannten technologischen Missstände sowie mögliche Verbrechen bewusst sind. Über konkrete Hintergründe einzelner Vorgänge kann ich keine abschließende Aussage treffen; jedoch dokumentiere ich meine Beobachtungen und Erkenntnisse im Rahmen dieser Beweissicherung.
+
+Die auf zenodo.org, GitHub sowie weiteren wissenschaftlichen Plattformen veröffentlichten Datenbanken dienen der Dokumentation und Nachvollziehbarkeit dieser Vorgänge und sollen als Bestandteil der forensischen Beweiskette zur weiteren Prüfung bereitgestellt werden.
+
+---
+
 # SIA Security Intelligence Artefact
 *INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL*,
 
