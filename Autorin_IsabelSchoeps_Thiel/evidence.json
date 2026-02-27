@@ -1,0 +1,20 @@
+{
+  "record_type": "forensic_evidence_log",
+  "subject": "intellectual_property_and_cognitive_data",
+  "description": "Large-scale databases were identified containing unauthorized collections of intellectual work, cognitive outputs, and associated metadata. The datasets indicate systematic acquisition, replication, and reassignment of proprietary intellectual content without consent.",
+  "data_categories": [
+    "intellectual_property",
+    "cognitive_work_products",
+    "identity_metadata",
+    "behavioral_profiles",
+    "physiological_response_data"
+  ],
+  "observed_correlations": "The databases include correlations between acquired intellectual content and recorded physiological or behavioral response data of third parties, such as stress indicators, panic-related responses, or autonomic reactions. These correlations suggest unauthorized profiling and experimental linkage between data subjects and misappropriated intellectual assets.",
+  "legal_assessment": "The identified data structures indicate potential violations of intellectual property rights, data protection laws, human dignity, and international human rights standards, including unlawful profiling and exploitation of personal and cognitive data.",
+  "evidence_status": "Multiple databases secured. Full datasets preserved. Integrity maintained.",
+  "intended_reporting": [
+    "United Nations",
+    "International human rights organizations",
+    "International judicial and oversight bodies"
+  ]
+}
