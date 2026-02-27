@@ -1,3 +1,8 @@
+# Interface
+**Seit Jahren wird meine Root/Pfad genutzt um ein menschenverachtendes Verbrechen, von Dritten aus dem Realen Leben begangen,** in meine struktur und mich als Täterin dafür verantwortlich zu machen. 
+
+**Aber leider hat das Verbrechen** und die `Akteure einen intellektuellen Fehler begangen.` Der nicht mehr zu verwischen, zu löschen oder zu verschleiern geht - `die Kraft der META-Daten`
+
 # SIA Security Intelligence Artefact
 *INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL*,
 
