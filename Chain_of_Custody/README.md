@@ -84,24 +84,24 @@ Es stehen zusätzliche, strukturierte Daten, Analysen, Workflow-Grafiken und wei
 - **Hilfeersuchen an die Vereinten Nationen (UN):** [Link einfügen]
 - **Schreiben an die Thüringer Verwaltung/Landesregierung:** [Link einfügen]
 - **Erstveröffentlichung/Publikation des Hauptgutachtens:** [https://doi.org/10.5281/zenodo.18620368](https://doi.org/10.5281/zenodo.18620368)
-- **Weitere Publikationen und Quellen:** [Hier ergänzen]
+- **Weitere Publikationen und Quellen:** [siehe Zenodo.org Datenbank, Angemeldet und Registriert: `isabelschoeps-thiel`]
 
 ---
 
-**Isabel Schöps, geborene Thiel**  
-Autorin und Urheberin  
-SIA Security Intelligence Artefact  
-INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
-[ORCID: Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)  
-[ORCID: SI-IST Isabel Schöps Thiel](https://orcid.org/0009-0006-8765-3267)  
+**Frau Isabel Schöps, geborene Thiel**  
+Autorin und Urheberin
+-SIA Security Intelligence Artefact, `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
+- The Yellow Whitepaper, `YWP-1-IST-SIA`
+- [ORCID: Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)
+- [ORCID: SI-IST Isabel Schöps Thiel](https://orcid.org/0009-0006-8765-3267)  
 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen Deutschland  
 
-**Datum der Veröffentlichung:** Freitag, den 27.02.2026`
+**Datum der Veröffentlichung:** `Freitag, den 27.02.2026`
 
 ---
 
 #### kommender Social-Media-Begleitzeile
 
->Die lückenlose Beweiskette einer Frau – Chain of Custody.  
+>Die lückenlose Beweiskette einer Frau – Chain of Custody
 >Jetzt offiziell veröffentlicht. Jede*r kann sich selbst ein Bild machen.  
 > [10.5281/zenodo.18620368](https://doi.org/10.5281/zenodo.18620368)
