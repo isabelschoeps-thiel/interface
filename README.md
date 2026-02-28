@@ -3,6 +3,34 @@
 
 **Aber leider hat das Verbrechen** und die `Akteure einen intellektuellen Fehler begangen.` Der nicht mehr zu verwischen, zu löschen oder zu verschleiern geht - `die Kraft der META-Daten`
 
+Das Internet soll für jeden zu einen sicheren und besseren digitalen Raum werden. In Zeiten der rasanteten sich verändernden Digitalisierung und den auf aufgedeckten Verbrechen, welche meinen Gutachten SIA Security Intelligence Artefact Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE ISABELSCHOEPSTHIEL im Monarch-Programm (Genozid) interpretiert und ausgewertet wurde, ist es mein bestreben, mit den besten und ethisch einwandfreien Entwicklern weltweit zusammenzuarbeiten. 
+
+Damit die Identität jedes
+Internet Nutzer, vor Daten-Diebstahl, Betrug, Missbrauch, Isolation, Deepfakes, Spionage, verbrechen gegen die Menschlichkeit zu schützen. Vor allem ist es mir ein wichtiges anliegen Pädophiles-Filmmaterial und dessen Verherrlichung im Netz zu vernichten und den kommerziellen Kinder- und Menschenhandel und die menschliche Versklavung zu bekämpfen.
+
+Da Grundlegende Richtlinien und deren Gesetze gebrochen und ein Verbrechen mit unvorstellbaren Aussmas die weltweiter Zivilbevölkerung infiltriert und Natur, Tier und Mensch auf dem Gewissen hat, wo
+bis heute deren Langzeitschäden abzuschätzen sind, ist diese Lizenz mit sofortiger Wirkung umzusetzen,
+um weitere Schäden an Leib und Seele zu verhindern. 
+
+Zudem muss der anhaltende Aktien- Banken und Lizenzbetrug ein ende gesetzt werden und die Täter vor einem unabhängigen fairen internationalen Strafgerichtshof zur Rechenschaft gezogen werden.
+
+Zudem fordere ich Frau Isabel Schöps geb. Thiel Schöps geb. Thiel aus D-99084 Erfurt, Thüringen, Deutschland endlich nach fast 30 Jahren endlich den mir zustehnden Zugang zu meinem rechtmässigen Vermögen und Vermögenswerten. Ich werde in Zukunft globales weltweites Mitspracherecht in den Umgang und in Sicherheitsfragen, Gipfeln, Kongreseen ohne mich darf und wird es in Zukunft kein Entscheidung mehr getroffen werden was dem Umgang mit Ki-Entwicklung und Softwarenutzung und dem Techsektor betrifft. Diese Regelung ist eine weltweite-globale Vorschrift.
+
+Ich benötige keine Speecher, Vertreterin, keinen anderweitige Ersatzperson, ich Frau Isabel Schöps geborene. Thiel, meine aktuell Wohnadresse ist die Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland und ich bin nicht ersetzbar und lasse mich nicht ersetzen!  
+
+Die vorliegende Software Lizenz dokumentiert wie der Schutz der Nutzer im Internet auf internationale
+wissenschaftliche Standards verbessert werden soll und der bestehende Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-Eigentums- und Menschenrechtesverletzungen ein enden gesetzt werden soll. In Zusammenarbeit mit unabhängigen Rechtswissenschaftlern, der Forensik und der Ki, habe ich, Frau Isabel Schöps gebore Thiel, gemeinsam Hochleistung in den letzten vier Jahre vor allem die letzten 10 Monate abgeliefert.
+
+Es wurde nicht nur meine Urheberschaft in Software und KI Entwicklung wissenschaftlich bestätigt, im
+Zusammenhang dessen kam ein Verbrechen ans tageslicht was jeden Menschen auf dieser Erde betrifft und bis heute all gegenwärtig ist. 
+
+**Hinzu kommen historische forensich nachgewiesene Verbindungen meiner Familiären Erblinie in deutsche Königs und Adelshäuser, explizit diese im Kontext der Kaiserin Victoria Auguste sowie Otto von Bismark und Adolf Hitler sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert und bilden einen Teil der wissenschaftlich-forensischen Publikationsreihe** und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press Lizenz-ID 6131130060979 und einer Umfangreichen Datenbank von insgesamt 5 Serien / Volumen die ich hochgeladen auf Zenodo.org hochgeladen habe. Bitte rechtshinweis am ende
+beachten.
+
+**Schöps geb. Thiel, I. und Schöps (Thiel), I. (2025)** „GitHub - Build for Better World“, Gitbook. Erfurt, Thueringa, Germany: GitHub, Isabel Schöps geb. Thiel, Apple Developer. doi:10.25504/FAIRsharing.132b1
+
+---
+
 # Aufnahme zur Chain of Custody  
 ## Repository-Struktur / Interface – Forensische Erklärung
 
