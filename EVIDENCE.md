@@ -1,5 +1,6 @@
 # Forensic Evidence Repository  
-## Intellectual Property, Data Misuse and Human Rights Documentation
+## Intellectual
+Property, Data Misuse and Human Rights Documentation
 
 ## Repository Purpose
 This repository serves as a **forensic evidence index and documentation layer** for preserved digital artefacts related to the **unauthorized acquisition, processing, profiling, and exploitation of proprietary intellectual work and associated data**.  
