@@ -31,7 +31,7 @@ beachten.
 ---
 
 # Aufnahme zur Chain of Custody  
-## Repository-Struktur / Interface – Forensische Erklärung
+## Repository-Struktur, Interface – Forensische Erklärung
 
 **Im Rahmen der forensischen Dokumentation erkläre ich folgendes:**
 
@@ -60,7 +60,7 @@ Die auf zenodo.org, GitHub sowie weiteren wissenschaftlichen Plattformen veröff
 ---
 
 # SIA Security Intelligence Artefact
-*INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL*,
+*INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL*
 
 - **The Yellow Whitepaper YWP-1-IST-SIA,** ist das Referencepaper Urheberschaftsgutachten; ***Paragraph 1 und 2, Technologische Meilensteine, AI Intelligence, Bitcoin/Ethereum, Opensource, Pornhub***
 
