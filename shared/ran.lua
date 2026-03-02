@@ -5,7 +5,7 @@ http/https:// = 'http://', 'https://', 'www.', (set.com, .de, .org, .net, .html,
 branche = 'main', 'master'
 Titel = 'README.md', '*.md', 
 Autor, Developer, Urheber, Owner = 'ADT'
-Citation = 'set.choose(cff)', 'CITATION.Cff', '(*.Cff)',
+Referent_Citation = 'set.choose(cff)', 'CITATION.Cff', '(*.Cff)',
 CODE_OF_CONDUCT = 'CODE_OF_CONDUCT.pdf', 'CODE_OF_CONDUCT.md',
   
 function set.func(IST)
@@ -26,55 +26,49 @@ function set= ''
 function set.signatur(IST)
 set.go html.random
 
-<!SHELL = /bin/sh
-              TOP = .
-      CURRENT_DIR = .
+function set =         
+MAKE = make
+MV = mv
+CP = cp
+RM = RAM 
+STD_CPP = 00:00_CEST
+STD_DEFINES =
+EXTRA_LOAD =
+EXTRA_LIBRARIES =
+TAGS = ctags
+SHAREDCODEDEF = -DSHAREDCODE
+USRLIBDIR = $(DESTDIR)/usr/lib
+BINDIR = $(DESTDIR)/usr/bin
+INCROOT = $(DESTDIR)/isabelschoeps-thiel/include
+BUILDINCROOT = $(TOP)
+BUILDINCDIR = $(BUILDINCROOT)/X11
+INCDIR = $(INCROOT)/isabelschoeps-thiel
+ADMDIR = $(DESTDIR)/usr/admin
+LIBDIR = $(USRLIBDIR)/isabelschoeps-thiel
+CONFIGDIR = $(LIBDIR)/config
+LINTLIBDIR = $(USRLIBDIR)/lint
+FONTDIR = $(LIBDIR)/fonts
+XINITDIR = $(LIBDIR)/xinit
+XDMDIR = $(LIBDIR)/xdm
+AWMDIR = $(LIBDIR)/awm
+TWMDIR = $(LIBDIR)/twm
+GWMDIR = $(LIBDIR)/gwm
+MANPATH = $(DESTDIR)/isabelschoeps-thiel/man
+MANSOURCEPATH = $(MANPATH)/man
+MANDIR = $(MANSOURCEPATH).h
+XAPPLOADDIR = $(LIBDIR)/app-defaults
+INSTAPPFLAGS = $(INSTDATFLAGS)
+IMAKE = imake
+DEPEND = makedepend
+IMAGES = RGB
+MKDIR = mkdir
+FONTSRC = $(TOP)/fonts
+SERVERSRC = server.md
+          
+        
+  
 
-               AR = ar clq
-  BOOTSTRAPCFLAGS =
-               CC = cc
 
-         COMPRESS = compress
-              CPP = /lib/cpp $(STD_CPP_DEFINES)
-    PREPROCESSCMD = cc -E $(STD_CPP_DEFINES)
-          INSTALL = install
-               LD = ld
-             LINT = lint
-      LINTLIBFLAG = -C
-         LINTOPTS = -axz
-               LN = ln -s
-             MAKE = make
-               MV = mv
-               CP = cp
-           RANLIB = ranlib
-  RANLIBINSTFLAGS =
-               RM = rm -f
-     STD_INCLUDES =
-  STD_CPP_DEFINES =
-      STD_DEFINES =
- EXTRA_LOAD_FLAGS =
-  EXTRA_LIBRARIES =
-             TAGS = ctags
 
-    SHAREDCODEDEF = -DSHAREDCODE
-         SHLIBDEF = -DSUNSHLIB
 
-    PROTO_DEFINES =
-
-     INSTPGMFLAGS =
-
-     INSTBINFLAGS = -m 0755
-     INSTUIDFLAGS = -m 4755
-     INSTLIBFLAGS = -m 0664
-     INSTINCFLAGS = -m 0444
-     INSTMANFLAGS = -m 0444
-     INSTDATFLAGS = -m 0444
-    INSTKMEMFLAGS = -m 4755
-
-          DESTDIR =
-
-     TOP_INCLUDES = -I$(INCROOT)
-
-      CDEBUGFLAGS = -O
-        CCOPTIONS =
-      COMPATFLAGS =
+            
