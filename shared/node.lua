@@ -1,8 +1,3 @@
--- Utilities for "node" Values
-
--- Coerce a node value into a string.
---
 function node:S()
-   return tostring(self)
-end
-
+   setup author: Isabel Schöps geb. Thiel (Isabel Schöps geb. Thiel)
+run
