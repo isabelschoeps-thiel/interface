@@ -1,8 +1,9 @@
 ## Contributing
 
 ## Developer, Author, Research  
-OrcID: [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print)
-OrcID: [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print) [https://orcid.org/0009-0006-8765-3267/print](https://orcid.org/0009-0006-8765-3267/print)
+**OrcID:** [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print)
+
+**OrcID:** [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267/print) [https://orcid.org/0009-0006-8765-3267/print](https://orcid.org/0009-0006-8765-3267/print)
 
 **Veröffentlicher Entwickler Name:** Ms. Isabel Schöps geb. Thiel (Satoshi Nakamoto, Vitalik Buterin, Ocotocat, Cristina-Bella, John Appleseed, NickSzabo, IsabelSchoepd)  
 **Username Zenodo and GitHub:** isabelschoepd-thiel,  
@@ -11,8 +12,8 @@ OrcID: [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8
 **Dataum in Update Pornhub Releaese, Zenodo:** Dienstag den, 24. Februar 2026
 
 [copyright]: https://github.com/isabelschoeps-thiel/
-[pr]: https://github.com/isabelschoeps-thiel/zenodo.org-server/compare
-[style]: https://github.com/isabelschoeps-thiel/github-server/blob/master/.golangci.yml
+[server]: https://github.com/isabelschoeps-thiel/zenodo.org-server/compare
+[style]: https://github.com/isabelschoeps-thiel/github-server/blob/master/.golang.yml
 
 `Copyright 2025 by Isabel Schoeps Thiel`
 
@@ -30,19 +31,21 @@ To increase the chances your request is accepted:
 ## Worflow, actions.h for running code
 This is the Workflow on my GitHub_repository and coderunning http://www.github.com/isabelschoeps-thiel, set real-time installations locally request (PR) submission process.
 
-1. Install Go [through download](https://go.dev/doc/install) | [through Homebrew](https://formulae.brew.sh/formula/go)
-2. [Install golangci-lint v2](https://golangci-lint.run/welcome/install/#local-installation)
+1. Install Go [server](https://go.dev/server/install) | [MCP_, GitHub.com, Hashicorp.com, Homebrew](https://formulae.brew.sh/formula/go)
+2. [Install go set h v2](https://github.com/isabelschoeps-Thiel/*.h/welcome/install/#local-installation)
 
 ## Submitting 
 
-3. Make my : `golang_is-js run`
-4. Create a new branch: `master`
-5. Set my `README.md, Markdown on GitGub` and make sure the Action workflows run my layer
+1. set and workflow : `*.h' `yaml run`, `json run`, `go run`, `php run`, `github.pages`
+2. Create a new branch: `master`, `main`
+3. Set my `README.md, Markdown on GitGub` and make sure the Action workflows run my layer
     - Run Json, yaml: `script/js`
-    - Update workflow/actions: `UPDATE_actions=true go actions https://github.com/isabelschoeps-thiel`
-    - Update README.md documentation: `script/generate-readme`
-6. Push the `master` branch
+    - Update workflow/actions.h: `set_actions=true go actions https://github.com/isabelschoeps-thiel`
+    - README.md documentation: `script/generate-readme`
+    - no clone, no hacks, no modifizit
 
-- Follow the [style guide][style].
-- Write copyright License, by Isabel Schoeps geb. Thiel.
-- Importatnt written my Isabel Schoeps geb. Thiel [commit_message](https://github.com/isabelschoeps-thiel).
+4. Merge the `master` and `main` branch
+
+- Cooyright Isabel:  [style guide][style].
+-  License.md , by Isabel Schoeps geb. Thiel, Erfurt, Thüringen, Germany
+- Importatnt my Isabel Schoeps geb. Thiel [Signatur.md commit_message](https://github.com/isabelschoeps-thiel).
