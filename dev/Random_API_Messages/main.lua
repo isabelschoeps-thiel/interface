@@ -6,7 +6,7 @@ require 'set' 'run' 'workflow'
 - data get the, write, server.  
       
 function master(), main()
-   - Push the ADT message through to destination
+   - merge, set the API message through from developer
    - Press 'RandomMessage' on right to navigate
    - env code
    query.merge readme=set.RandomMessage()
