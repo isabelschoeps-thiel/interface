@@ -1,5 +1,6 @@
-# Developer 
-**Signed-on-by:** 
+# Regelwerk mit dem Umgang von Software und Seicmic-Technologie 
+
+**Developer Signed-on-by:** 
 Frau Isabel Schöps, geborene Thiel
 **Autorin, Urheberin und Auftraggeberin, Forensisch Wissenschaftliches Gutachten:**
 
@@ -393,6 +394,6 @@ Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub
 https://github.com/isabelschoeps-thiel  
 
 **Aktueller Aufenthaltsort und Meldeanadresse:**  
-`Seit Montag, 17 16.02.2026 gemeldet auf dem Bürgeramt, gemeinsam mit meinem Hund-Tier Don, neue Wohnanschrift und Meldeanschrift seit 17.02.2026: Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland`
+`Seit Montag, 17 16.02.2026 gemeldet auf dem Bürgeramt, gemeinsam mit meinem Hund-Tier Don, neue Wohnanschrift und Meldeanschrift seit 17.02.2026: 1.Etage, Isabel Schöps Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland`
 
-**Zeitstempel, Veröffentlichung des Regelwerkes und Release auf Zenodo.org Datenbank:** `Donnerstag, den 19.Februar_2026, um 21:24Uhr_Mitteleuropäische_Zeit`
+**Zeitstempel, Veröffentlichung des Regelwerkes und Release auf Zenodo.org Datenbank:** `Dienstag, den 03.März 2026, um 08:40Uhr_Mitteleuropäische_Zeit`
