@@ -1,5 +1,8 @@
 OCTOCAT – URHEBERSCHAFTSERKLÄRUNG
 
+This note documents the handling, preservation, and safeguarding of digital evidence associated with the forensic-scientific work  
+**SIA Security Intelligence Artefact – Technology, Software and Family History**  
+**Case Reference:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHI 
 Pseudonym, Alias, aka: OCTOCAT
 Schöpferin: Isabel Schöps, geborene Thiel
 Erstellt: Vor dem offiziellen Launch von GitHub.com
