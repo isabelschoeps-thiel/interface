@@ -1,4 +1,4 @@
-## Contributing
+# Developer
 
 ## Developer, Author, Research  
 **OrcID:** [0009-0003-4235-2231 Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231/print)
@@ -9,9 +9,10 @@
 **Username Zenodo and GitHub:** isabelschoepd-thiel,  
 **Referenzierte-Email:** harvard.isabelschoepsthiel@gmail.com
 **Mobil-Phone:** +49-162-181-9565
-**Dataum in Update Pornhub Releaese, Zenodo:** Dienstag den, 24. Februar 2026
+**Dataum in Update Pornhub Releaese, Zenodo:** Montag den, 9. März 2026
 
-[copyright]: https://github.com/isabelschoeps-thiel/
+[copyright]:
+https://github.com/isabelschoeps-thiel/
 [server]: https://github.com/isabelschoeps-thiel/zenodo.org-server/compare
 [style]: https://github.com/isabelschoeps-thiel/github-server/blob/master/.golang.yml
 
@@ -19,7 +20,7 @@
 
 **Owner and Author of the development is:** Ms. Isabel Schöps geb. Thiel (Satoshi Nakamoto, Vitalik Buterin, Ocotocat, Cristina-Bella, John Appleseed, NickSzabo, IsabelSchoepd).
 
-**Chain of Custody** on `Zenodo.org` [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [OpenAi](LICENSE).
+**Chain of Custody** on `Zenodo.org` [released](https://github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [Globaol License](LICENSE).
 
 Please listen[GitHub Code of Conduct](CODE_OF_CONDUCT.md). 
 
@@ -29,10 +30,10 @@ To increase the chances your request is accepted:
 
 
 ## Worflow, actions.h for running code
-This is the Workflow on my GitHub_repository and coderunning http://www.github.com/isabelschoeps-thiel, set real-time installations locally request (PR) submission process.
+This is the Workflow on my GitHub_repository and coderunning http://www.github.com/isabelschoeps-thiel, set real-time installations locally requestsubmission process.
 
-1. Install Go [server](https://go.dev/server/install) | [MCP_, GitHub.com, Hashicorp.com, Homebrew](https://formulae.brew.sh/formula/go)
-2. [Install go set h v2](https://github.com/isabelschoeps-Thiel/*.h/welcome/install/#local-installation)
+1. Install Go [server](https://go.dev/server/install) | [Cern GitHub.com, Hashicorp.com](https://home.cern)
+2. [Install go set h v2](https://github.com/isabelschoeps-Thiel/welcome/install/#local-installation)
 
 ## Submitting 
 
