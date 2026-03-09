@@ -500,7 +500,7 @@ Entwicklerzertifikat, https://developercertificate.org`
 **myGitHub-Account:**
 `https://github.com/isabelschoeps-thiel`
 
-**Zeitstempel und Ort der Eintragung und Veröffentlichung:** `2026-01-19, 12:58CEST Mitteleuropäische Zeit`
-**Ort:** `Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel`
+**Zeitstempel und Ort des Updates:** `2026-03-06, 17:55Uhr CEST Mitteleuropäische Zeit`
+**Ort:** `Deutschland, Thüringen, D-99094 Erfurt, Hütergasse 4, erste Etage - Autorin, Urheberin, Frau Isabel Schöps geborene Thiel`
 
-**Wichtiger-Vermerk:** Aufgrund das die `Immobilie Cyriakstrasse 30c, in Erfurt Deutschland` in der ich aktuell gerade gemeldet und auch lebe zum Verkauf angeboten wird, kann ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage oder Wochen gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir!`
+**Wichtiger-Vermerk:** Aufgrund das dies  `nur ein Kurzzeitmietvertrag ist, der am 15.05.2026 hier in der Hütergasse 4 in Erfurt Deutschland, Vermieterin Frau Irene Futterlieb` möchte ich diese psychische Belastung die ich die letzten knapp 3 Jahre der Wohnungsnot nicht wieder haben, und weiss nicht wie meine Wohnsituation ab 15.Mai 2026 gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, und alle die das lesen, bitte helfen Sie mir, die Wahrheit aufzudecken!` 
