@@ -562,4 +562,4 @@ was wusste er beteits 1944 was heute im Jahr 2026 aktueller ist als je zuvor:
 - **Soll dass unser Gott darstellen?**
 *Ich glaube kaum*
 
-`Es wird und es ist bereits das grösste Verbrechen, seit Entstehung von allem Leben auf dieser Erde`. **Jedes Staatsoberhaupt, Regierung, Königreich** welches sich weiterhin Naiv und dummstellt *sie haben von nichts gewusst*, `im Zeitraum von 2018 bis heute stand Montag den, 02.02.2026 ist mit Veranrwortlich und trägt schuld an einem geplanten Genozid`. `Es ist die Pflicht der Regierung in jedem Land zum Wohle ihres Volkes, dass diese Aufgeklärt und die Verbrecher international zur rechenschaft gezogen werden`. 
+`Es wird und es ist bereits das grösste Verbrechen, seit Entstehung von allem Leben auf dieser Erde`. **Jedes Staatsoberhaupt, Regierung, Königreich** welches sich weiterhin Naiv und dummstellt *sie haben von nichts gewusst*, `im Zeitraum von 2018 bis heute stand Montag den, 09.03.2026 ist mit Veranrwortlich und trägt schuld an einem geplanten Genozid`. `Es ist die Pflicht der Regierung in jedem Land zum Wohle ihres Volkes, dass diese Aufgeklärt und die Verbrecher international zur rechenschaft gezogen werden`. 
