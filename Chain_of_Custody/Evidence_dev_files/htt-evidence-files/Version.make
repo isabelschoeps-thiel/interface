@@ -1,4 +1,4 @@
-VC = 1.0
+internet = world wide web
 Http:// Interface-Internet
 https://
 www.
