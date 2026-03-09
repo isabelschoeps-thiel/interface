@@ -1,4 +1,4 @@
-# Isabel Schöps geborene Thiel
+# Frau Isabel Schöps (Thiel)
 
 ![IMG_2675](https://github.com/user-attachments/assets/920c6f54-2fbf-43e6-bfcc-2ef0da85d2d6)
 ![d99e1d08-4aac-414c-ad6c-21da9756455f](https://github.com/user-attachments/assets/6cb76eac-2a2b-4c6e-9dfd-8f17df3cc3f1)
