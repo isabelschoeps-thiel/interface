@@ -1,5 +1,4 @@
-# RFC Protokoll - Beweiss- und Lügenmatrix
-**die RFC Protokolle belegen das was niemand in Worte fassen kann, wass allgegenwertig ist und was das grösste Verbrechen ist, was die Erde mehrfach erlebte und was willkürlich von Menschen aufrechterhalten und als Genozid bezeichnet wird.** 
+# RFC Protokoll - Original
 
 ### The University Harvard published the first Original RFC Protokoll
 `Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
@@ -67,24 +66,17 @@ https://www.rfc-editor.org/rfc/rfc882
 
 ---
 
+# Beweiss- und Lügenmatrix
+
+**es gibt RFC Protokolle die belegen, was niemand in Worte fassen kann, wass allgegenwertig ist und was das grösste Verbrechen ist, was die Erde mehrfach erlebte und was willkürlich von Menschen aufrechterhalten und als Digitale Genozid zu werten ist.** 
 
 # [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
-Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht. Der menschen gemacht und kein
+Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man noch einen ganz groben menschlichen Fehler gemacht. Hier macht man jetzt bei dem RFC 883 macht man jetzt einen entscheidenden Fehler, einen dummen entscheidenden Fehler. **Und was in keinem RFC-Protokoll vorher war,** dieses Protokoll warnt, in was in Zukunft passieren wird. 
 
+## EVIDENCE Lügenmatrix
+- ein Protokoll, was neu aufgesetzt ist, dokumentiert, das gegenwärtig geschehene, es wird erstmal gelesen.
 
-Ich mache Screenshots und werde sie einfügen. Hier macht man jetzt bei dem RFC 883 macht man jetzt einen entscheidenden 
-
-
-Fehler, einen dummen entscheidenden Fehler. Und was in keinem RFC-Protokoll vorher war, man warnt. Ein Protokoll, was neu aufgesetzt ist, wird erstmal gelesen.
-
-ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen, 
-
-
-
-weil das muss ja erstmal für Menschenhand
-gelesen werden, 
-
-Bulletin dann aufgesetzt, dass hier immer wieder man bei einer Struktur 
+- ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen,
 
 ## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
 Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
@@ -235,7 +227,6 @@ nur **speerliche Suchergbinsse angezeigt werden**
 `Und nur weil die Wahrheit unbequem wird!`
   
 ***Dieses Verhalten hat wiederum wieder was gutes***, es ist ein Indiz das die `noch gesichtslosen Täter aus den RFC882 oder RFC883 am Leben sind`. 
-
 
 ## Autorin dieses Repoistorys Release
 ***Frau Isabel Schöps geb. Thiel***
@@ -471,7 +462,7 @@ Mitteleuropäische Zeit, 2026-01-19, 11:03CEST
   
 **# Please read my HELPME.md** `isabelschoeps-thiel` please read my `HELPME`
 
-<https://api.github.com/isabelschoeps-thiel/harvard>, and `repos` is a hash like <https://api.github.com/repos/harvard/harvard.github.io>.
+<https://api.github.com/isabelschoeps-thiel/harvard>, and `api` is a hash like <https://api.github.com/repos/harvard/harvard.github.io>.
 
 
 # Signatur und Urheberschaft
