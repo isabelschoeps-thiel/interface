@@ -1,6 +1,10 @@
+# Deepweb Forschung
+
 **File-Signatur:** `Autorin, Urheberin; Deepweb-Forscherin, Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Donnerstag den, 2026-03-19, 22:37:00 Uhr, Mitteleuropäische, Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Gutachten: SIA Security Intelligence Artefact, internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, und The Yellow Whitepaper YWP-1-IST-SIA`
 
-### Beweisdokumentation, Arbeitsprozess, Screnshots Beweisdokumentation, Text-Dokumentation, Beleg für die geplante Zerstörung US-Tech-Konzerne bsp. Apple, Microsoft, Journals 
+## Beweisdokumentation, Arbeitsprozess, Screnshots, Text-Dokumentation, Deepnet-Rescherche
+
+### Beweisdokumentation für die geplante Zerstörung US-Tech-Konzerne bsp. Apple, Microsoft, Journals, Holmes-File, Geplante-Morde, Gutenberg-Projekt, GenExperimente, Historische-Geschichts-Verbrechen-1880
 
 ### Chain of Custody**  
   
