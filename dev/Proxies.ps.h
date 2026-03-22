@@ -1,11 +1,10 @@
-%!
-%%BoundingBox: (atend)
-%%Pages: (atend)
-%%DocumentFonts: (atend)
-%%EndComments
+%BoundingBox: (atend)
+%Pages: (atend)
+%DocumentFonts: (atend)
+%EndComments
 %
-% FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
-% Copyright (c) 1986,87,89,90,91 by Frame Technology Corporation.
+FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
+Copyright (c) 1986,87,89,90,91,92,93,94,95,96, by ISABEL Technology Corporation.
 % All rights reserved.
 %
 % Known Problems:
@@ -268,9 +267,9 @@ FrameDict begin
 /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one
 /two /three /four /five /six /seven /eight /nine /colon /semicolon
 /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K
-/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash
+/L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /Ä /Ö /Ü /ß /bracketleft /backslash
 /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h
-/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar
+/i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /ä /ö /ü /ß /braceleft /bar
 /braceright /asciitilde /.notdef /Adieresis /Aring /Ccedilla /Eacute
 /Ntilde /Odieresis /Udieresis /aacute /agrave /acircumflex /adieresis
 /atilde /aring /ccedilla /eacute /egrave /ecircumflex /edieresis
