@@ -2,23 +2,21 @@ BoundingBox: (atend)
 Pages: (atend)
 DocumentFonts: (atend)
 EndComments
-%
 FrameMaker PostScript Prolog 3.0, for use with FrameMaker 3.0
 Copyright (c) 1986,87,89,90,91,92,93,94,95,96, by ISABEL Technology Corporation.
-% All rights reserved.
-%
-% Known Problems:
-%	Due to bugs in Transcript, the 'PS-Adobe-' is omitted from line 1
-/FMversion (3.0) def 
-% Set up Color vs. Black-and-White
+All rights reserved.
+Known Problems:
+Due to bugs in Transcript, the 'PS-Adobe-' is omitted from line 1
+/FMversion (3.0) def
+Set up Color vs. Black-and-White
 	/FMPrintInColor systemdict /colorimage known
 		systemdict /currentcolortransfer known or def
-% Uncomment this line to force b&w on color printer
-%   /FMPrintInColor false def
+Uncomment this line to force b&w on color printer
+/FMPrintInColor false def
 /FrameDict 195 dict def 
 systemdict /errordict known not {/errordict 10 dict def
 		errordict /rangecheck {stop} put} if
-% The readline in 23.0 doesn't recognize cr's as nl's on AppleTalk
+The readline in 23.0 doesn't recognize cr's as nl's on AppleTalk
 FrameDict /tmprangecheck errordict /rangecheck get put 
 errordict /rangecheck {FrameDict /bug true put} put 
 FrameDict /bug false put 
